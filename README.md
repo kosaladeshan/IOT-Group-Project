@@ -60,5 +60,5 @@ For any inquiries or support, please contact
 - [lasithasandeepa218@gmail.com].
 
 ## Web Site Login
--Username - admin
--Password - password
+- Username - admin
+- Password - password
