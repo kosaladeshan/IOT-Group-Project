@@ -15,8 +15,7 @@ The Smart Waste Management System is designed to efficiently manage waste collec
 - 20 kg load cell
 - LEDs (White, Green, Yellow, Red)
 
-![Screenshot 2023-12-24 211226](https://github.com/kosaladeshan/IOT-Group-Project/assets/127652560/770a0139-3146-4d4a-a549-2a56ec4770cc)
-![aian_0414](https://github.com/kosaladeshan/IOT-Group-Project/assets/127652560/5c973989-fc3a-4046-849c-e1c5e62bb2cc)
+
 
 
 ## Features
