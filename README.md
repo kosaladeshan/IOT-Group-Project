@@ -43,6 +43,7 @@ The Smart Waste Management System is designed to efficiently manage waste collec
 
 ## Contributors
 - [Kosala Deshan](https://github.com/kosaladeshan)
+- [Imesha](https://github.com/jahingeir)
 - [Additional contributors]
 
 ## License
