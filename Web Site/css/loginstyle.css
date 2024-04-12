@@ -1,0 +1,91 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #fdff9f;
+    
+  }
+  h1 {
+    text-align: center;
+    color: #5ded40;
+  }
+  .container{
+    padding-left: 20px;
+    position: center;
+    bottom: 0px;
+    width: 450px;
+    padding-top: 35px;
+    border-radius: 15px;
+    background-color: #a79000ce;
+    box-shadow: 0 0 10px rgba(34, 34, 34, 0.712);
+    
+  }
+  
+  h1 {
+    font-size: 30px;
+    margin-bottom: 5px;
+    color: #5ded40;
+  }
+
+form {
+
+    position: relative;
+    width: 400px;
+    padding: 16px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+form input[type="text"]{
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+form input[type="password"] {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+form button {
+  
+    width: 90%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #5ded40;
+    color: #161616;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #105e00;
+    color: #ffffff;
+}
+  
+  p {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .social-login a {
+    margin: 0 5px;
+    font-size: 20px;
+    color: #84e639;
+    
+  }
+  
+  
+  
+  

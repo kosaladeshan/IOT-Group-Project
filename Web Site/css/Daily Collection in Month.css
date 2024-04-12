@@ -1,0 +1,110 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    color: white;
+    .navbar {
+        background-color: #04a2c6a3; /* Set a background color */
+        overflow:hidden; /* Clear floats for proper layout */
+        width: 98%;
+        padding: 10px;
+        border-radius: 5px;
+        text-align:center;
+        box-shadow: 0 0 5px #06060677;
+        margin-top: 20px;
+      }
+      
+      .navbar ul {
+        list-style-type: none; /* Remove list bullets */
+        margin: 100; /* Remove default margins */
+        padding:50; /* Remove default padding */
+      }
+      
+      .navbar li {
+        float:left; /* Arrange items horizontally */
+      }
+      
+      .navbar a {
+        display: block; /* Make links block-level for styling */
+        color: #ffffff; /* Set text color */
+        text-align:center; /* Center text within links */
+        padding: 15px 18px; /* Add padding to links */
+        text-decoration: none; /* Remove underline from links */
+      }
+      
+      .navbar a:hover { /* Style links on hover */
+        background-color: #ddd;
+        color: rgb(0, 0, 0);
+      }
+    
+      
+}
+
+header {
+    text-align: center;
+    font-size: 24px;
+    padding: 20px;
+    border-bottom: 1px solid #f0b30b;
+    
+    
+    
+    
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+    
+    
+}
+
+.dashboard-cards {
+    width: 45%;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #f5b104;
+}
+
+.card {
+    margin-bottom: 20px;
+    text-align: center;
+    
+}
+
+.card h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.bin-table {
+    margin-top: 40px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 5px solid #50f509;
+}
+
+th {
+    background-color: #32f207;
+    font-weight: bold;
+}
+
+.actions {
+    text-align: center;
+}
+
+.actions button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+
+}
+
+
+  
+

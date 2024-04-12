@@ -1,0 +1,114 @@
+.navbar {
+  background-color: #04a2c6a3; /* Set a background color */
+  overflow:hidden; /* Clear floats for proper layout */
+  width: auto;
+  padding: 10px;
+  border-radius: 5px;
+  text-align:center;
+  box-shadow: 0 0 5px #06060677;
+  margin-top: 1px;
+}
+
+.navbar ul {
+  list-style-type: none; /* Remove list bullets */
+  margin: 100; /* Remove default margins */
+  padding:50; /* Remove default padding */
+}
+
+.navbar li {
+  float:left; /* Arrange items horizontally */
+}
+
+.navbar a {
+  display: block; /* Make links block-level for styling */
+  color: #ffffff; /* Set text color */
+  text-align:center; /* Center text within links */
+  padding: 15px 18px; /* Add padding to links */
+  text-decoration: none; /* Remove underline from links */
+}
+
+.navbar a:hover { /* Style links on hover */
+  background-color: #ddd;
+  color: rgb(0, 0, 0);
+}
+.dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px; /* Adjust spacing as needed */
+    
+  }
+  h1 {
+    color: #f0f8ff;
+  }
+
+
+  
+  .month-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .month-card {
+    width: 250px; 
+    margin: 15px;
+    background-color: #0ceb26fc;
+    border-radius: 25px;
+    padding: 20px;
+    text-align: center;
+    
+  }
+  .month-card[data-month="01"] {
+    background-color: #eef109; /* Light blue */
+  }
+  .month-card[data-month="02"] {
+    background-color: #0784f1; /* Light blue */
+  }
+  .month-card[data-month="03"] {
+    background-color: #f37f0b; /* Light blue */
+  }
+  .month-card[data-month="04"] {
+    background-color: #660ced; /* Light blue */
+  }
+  .month-card[data-month="05"] {
+    background-color: #ef3c0bfb; /* Light blue */
+  }
+  .month-card[data-month="06"] {
+    background-color: #ef0abd; /* Light blue */
+  }
+  .month-card[data-month="07"] {
+    background-color: #0aef47; /* Light blue */
+  }
+  .month-card[data-month="08"] {
+    background-color: #0af2b8; /* Light blue */
+  }
+  .month-card[data-month="09"] {
+    background-color: #ecd50cfd; /* Light blue */
+  }
+  .month-card[data-month="10"] {
+    background-color: #f0f8ff; /* Light blue */
+  }
+  .month-card[data-month="11"] {
+    background-color: #e5ed0afd; /* Light blue */
+  }
+  .month-card[data-month="12"] {
+    background-color: #6c09ef; /* Light blue */
+  }
+  .month-card[data-month="13"] {
+    background-color: #08f43f; /* Light blue */
+  }
+  .newmonth-card[data-month="13"] {
+    background-color: #08f43f;
+    width: 800px; 
+    margin: 50px;
+    border-radius: 50px;
+    padding: 20px;
+    text-align: center;
+
+  }
+   
+  .month-card h2 {
+    margin-bottom: 20px;
+  }
+  
