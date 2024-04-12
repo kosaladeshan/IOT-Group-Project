@@ -2,6 +2,9 @@
 
 # Smart Waste Management System
 
+![diagram](https://github.com/kosaladeshan/IOT-Group-Project/assets/127652560/9e42029b-7de0-47f8-b0e9-8280484e11b7)
+
+
 ## Overview
 The Smart Waste Management System is designed to efficiently manage waste collection by utilizing IoT technology. It employs an Arduino Uno board, ESP32 DevKit V1 module, ultrasonic sensor, and a 20 kg load cell to monitor waste weight and bin fill levels. The system includes LED indicators for visual feedback on bin fill levels and a web interface for real-time monitoring and data collection.
 
