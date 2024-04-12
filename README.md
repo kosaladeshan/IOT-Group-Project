@@ -47,12 +47,14 @@ The Smart Waste Management System is designed to efficiently manage waste collec
 - [Imesha](https://github.com/jahingeir)
 - [Daylika](https://github.com/dayliya)
 - [Lasitha](https://github.com/lasitha218)[Front end]
-- 
+ 
 
 ## License
 [Specify license]
 
 ## Support
-For any inquiries or support, please contact [kosaladeshan123@gmail.com][lasithasandeepa218@gmail.com].
+For any inquiries or support, please contact 
+- [kosaladeshan123@gmail.com].
+- [lasithasandeepa218@gmail.com].
 
 
