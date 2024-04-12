@@ -27,7 +27,8 @@ The Smart Waste Management System is designed to efficiently manage waste collec
 ## Technologies Used
 - Frontend: HTML, CSS
 - Backend: PHP
-- Database: [MY SQL, xampp server]
+- Database: [MY SQL, XAMPP Server]
+- Arduino
 
 ## Installation
 1. Connect the Arduino Uno board, ESP32 DevKit V1 module, ultrasonic sensor, and load cell according to the provided schematic.
@@ -42,14 +43,16 @@ The Smart Waste Management System is designed to efficiently manage waste collec
 4. Data is collected and stored for future analysis.
 
 ## Contributors
-- [Kosala Deshan](https://github.com/kosaladeshan)
+- [Kosala Deshan](https://github.com/kosaladeshan)[Ardino Programming,Hardware Config]
 - [Imesha](https://github.com/jahingeir)
-- [Additional contributors]
+- [Daylika](https://github.com/dayliya)
+- [Lasitha](https://github.com/lasitha218)[Front end]
+- 
 
 ## License
 [Specify license]
 
 ## Support
-For any inquiries or support, please contact [kosaladeshan123@gmail.com].
+For any inquiries or support, please contact [kosaladeshan123@gmail.com][lasithasandeepa218@gmail.com].
 
 
